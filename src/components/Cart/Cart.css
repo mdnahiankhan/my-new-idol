@@ -1,0 +1,13 @@
+.cart {
+    position: sticky;
+    top: 0px;
+    padding: 25px;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
